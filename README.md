@@ -34,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had a lot of issues with the libraries. In the beginning, it took so long for getting the project to sync.
 
 ## Open-source libraries used
 
